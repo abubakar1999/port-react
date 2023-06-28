@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/abubakar1999/port-react/static/css/main.ae9e70f5.css",
+    "main.js": "/abubakar1999/port-react/static/js/main.5d9c614e.js",
+    "static/media/about.jpg": "/abubakar1999/port-react/static/media/about.6c63338812297a7d1268.jpg",
+    "static/media/header.jpg": "/abubakar1999/port-react/static/media/header.2315687c58b2c8df7146.jpg",
+    "static/media/messanger.png": "/abubakar1999/port-react/static/media/messanger.c560961356543bbe4994.png",
+    "static/media/Resume Abubakar.pdf": "/abubakar1999/port-react/static/media/Resume Abubakar.f6f585949d8d367184e8.pdf",
+    "static/media/logo.jpg": "/abubakar1999/port-react/static/media/logo.03474e31420cdb6bcbfc.jpg",
+    "static/media/whatsapp.png": "/abubakar1999/port-react/static/media/whatsapp.df7ba82dfa8317f14421.png",
+    "index.html": "/abubakar1999/port-react/index.html",
+    "main.ae9e70f5.css.map": "/abubakar1999/port-react/static/css/main.ae9e70f5.css.map",
+    "main.5d9c614e.js.map": "/abubakar1999/port-react/static/js/main.5d9c614e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9e70f5.css",
+    "static/js/main.5d9c614e.js"
+  ]
+}
